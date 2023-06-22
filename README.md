@@ -9,7 +9,10 @@ I have recently embarked on a new journey into the field of Data! For the past 4
 *   🌍  I'm based in Warwickshire, England
 *   🖥️  See my portfolio at [HyperionDev](http://www.hyperiondev.com/portfolio/147758/)
 *   ✉️  You can contact me at [jonchadwick66@gmail.com](mailto:jonchadwick66@gmail.com)
-*   🧠  I'm learning more techniques and technologies to strengthen my abilities in the field of Data.### Skills 
+*   🧠  I'm learning more techniques and technologies to strengthen my abilities in the field of Data.
+
+### Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
